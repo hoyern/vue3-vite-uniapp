@@ -1,0 +1,10 @@
+9/19
+创建项目
+通过uni-app创建vite + vue3 + ts的项目模版
+成功编译成小程序运行
+
+9/20
+引入屏幕适应插件postcss-px-to-viewport
+引入scss
+引入ui框架vant
+
